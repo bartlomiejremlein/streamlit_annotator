@@ -1,1 +1,1 @@
-# streamlit_annotater
+# streamlit_annotator
